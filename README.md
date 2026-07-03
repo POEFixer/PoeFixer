@@ -1,16 +1,19 @@
-## Hi there 👋
+# PoeFixer
 
-<!--
-**POEFixer/PoeFixer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Download mirror for **PoeFixer** — the Path of Exile 2 overlay assistant.
 
-Here are some ideas to get you started:
+## Download
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➡️ **[PoeFixer.zip — latest version](https://github.com/POEFixer/PoeFixer/releases/latest/download/PoeFixer.zip)**
+
+The current version number and SHA256 checksum are listed on the [Releases page](https://github.com/POEFixer/PoeFixer/releases).
+
+This mirror exists for users who cannot download the update directly from the built-in updater.
+
+## Documentation
+
+Guides in 11 languages: [FixerWiki](https://github.com/POEFixer/FixerWiki/wiki)
+
+---
+
+🇷🇺 Зеркало для скачивания PoeFixer — на случай, если встроенное обновление с сервера недоступно. Актуальная версия и контрольная сумма SHA256 — на странице [Releases](https://github.com/POEFixer/PoeFixer/releases).
